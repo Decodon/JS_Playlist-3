@@ -1,0 +1,93 @@
+{
+  "playlistCollection": [
+    {
+      "id": "01",
+      "title": "Beethoven Sonatas",
+      "duration": "055123",
+      "songs": [
+        {
+          "id": "04",
+          "title": "Piano Sonata No. 3",
+          "artist": "Beethoven",
+          "duration": "5",
+          "genre": "Classical"
+        },
+        {
+          "id": "05",
+          "title": "Piano Sonata No. 7",
+          "artist": "Beethoven",
+          "duration": "5",
+          "genre": "Classical"
+        },
+        {
+          "id": "2fcccdf0-07e1-11ec-9084-ed09212d46fe",
+          "title": "sdaf",
+          "artist": "asdf",
+          "duration": 123
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "title": "Beethoven Concertos",
+      "duration": "15",
+      "songs": [
+        {
+          "id": "07",
+          "title": "Piano Concerto No. 0",
+          "artist": "Beethoven",
+          "duration": "5",
+          "genre": "Classical"
+        },
+        {
+          "id": "08",
+          "title": "Piano Concerto No. 4",
+          "artist": "Beethoven",
+          "duration": "5",
+          "genre": "Classical"
+        },
+        {
+          "id": "09",
+          "title": "Piano Concerto No. 6",
+          "artist": "Beethoven",
+          "duration": "5",
+          "genre": "Classical"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "Beethoven Glam Metal",
+      "songs": [
+        {
+          "id": "11",
+          "title": "Kickstart My Heart",
+          "artist": "Beethoven",
+          "duration": "5",
+          "genre": "Glam"
+        },
+        {
+          "id": "12",
+          "title": "Nothing but a Good Time",
+          "artist": "Beethoven",
+          "duration": "5",
+          "genre": "Glam"
+        }
+      ],
+      "duration": "15"
+    },
+    {
+      "id": "d03cc230-fe00-11eb-bb8c-d7d738069c21",
+      "title": "ASd",
+      "songs": [
+        {
+          "id": "d3af2ca0-fe00-11eb-bb8c-d7d738069c21",
+          "title": "asd",
+          "artist": "asd",
+          "duration": 12
+        }
+      ],
+      "duration": 12
+    }
+  ]
+}
